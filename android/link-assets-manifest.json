@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/SVN-GilroyBold.otf",
+      "sha1": "c68db5b3242b9d336a295a0d986009ba0265acbc"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyBoldItalic.otf",
+      "sha1": "b08225268334e20582c648c45e6736c16f8f4fcc"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyHeavy.otf",
+      "sha1": "80ad9a05a5fef08425fadd81c6e6650cbd90fb59"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyHeavyItalic.otf",
+      "sha1": "985c3f0458476b4cb77f8e83d06547d121b0f1f7"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyItalic.otf",
+      "sha1": "4df2ca98bc6f16a895ff42f6884f504c0f191c5d"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyLight.otf",
+      "sha1": "f46e6bb2494d3c7cdbbd30be6328742dff067914"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyLightItalic.otf",
+      "sha1": "e63b11d4ccfb9a9b1154dc77be9a3c45ee9a5487"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyMedium.otf",
+      "sha1": "858bfba67dcb4788dd9cdb261b707a78e2075334"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyMediumItalic.otf",
+      "sha1": "3a4f0be52ef310f248c3656e7c3a3ac0dc4baaa3"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyRegular.otf",
+      "sha1": "ed7c84d6f0b3bd4764934704c927122f703f2eef"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroySemiBold.otf",
+      "sha1": "ac6180999c6054cf53128046cf29bb53c8266102"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroySemiBoldItalic.otf",
+      "sha1": "882abb058c1fc2c7259201f2383bd1c7cf8f4d64"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyThin.otf",
+      "sha1": "361936839dea039e037f7d92fdd8e2f002fd45d3"
+    },
+    {
+      "path": "src/assets/fonts/SVN-GilroyThinItalic.otf",
+      "sha1": "cfb194e3dcdccee748d56e404485c7ebf22e26db"
+    }
+  ]
+}
